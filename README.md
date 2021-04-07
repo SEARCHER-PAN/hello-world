@@ -1,2 +1,2 @@
 # hello-world
-It's the first repository which contributed by myself.
+It's the first repository which is contributed by myself.
